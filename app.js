@@ -1,1 +1,1 @@
-console.log('nova docker');
+console.log('nova test auto docker');
